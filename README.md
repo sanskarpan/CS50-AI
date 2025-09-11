@@ -1,0 +1,1 @@
+Code material for CS-50 Artificial Intelligence course.
